@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color: #E70BB6;
+    color: yellow;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Logo-livraria{
+    width: 15%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+.livraria-imagem{
+    width: 25%;
+}
+
+.livraria{
+    background-image: linear-gradient(#E70BB6,#F9B7EA);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.livraria-div-conteudo{
+    width: 35%;
+}
+
+.livraria-titulo{
+    padding: 24px 0;
+}
