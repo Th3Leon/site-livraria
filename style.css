@@ -41,3 +41,38 @@
 .livraria-titulo{
     padding: 24px 0;
 }
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.autor-imagem{
+    width: 120px;
+}
+.autor-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.autor-div{
+    text-align: center;
+    padding: 16px 0;
+}
+.autor-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.titulo-autor{
+    text-align: center;
+    padding: 50px;
+}
+.rodape{
+    background-color: #E70BB6;
+    text-align: center;
+}
+.rodape-imagem{
+    width: 13%;
+    padding: 16px 0;
+}
+.autores{
+    text-align: center;
+}
